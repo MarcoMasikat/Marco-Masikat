@@ -1,0 +1,22 @@
+.table{
+    background-color:firebrick;
+    border:10px;
+    margin-bottom: auto
+}
+
+.Title{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    background-color:crimson;
+    border:30px;
+    margin-bottom: auto;
+}
+
+#Panda{
+    color:darkcyan;
+    background-color:darksalmon;
+    border-style:dashed;
+    border-width: 1px;
+}

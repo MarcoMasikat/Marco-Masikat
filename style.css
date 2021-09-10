@@ -16,7 +16,9 @@
 
 #Panda{
     color:darkcyan;
-    background-color:darksalmon;
+    background-color:rgb(160, 151, 148);
     border-style:dashed;
     border-width: 1px;
+    text-align: left;
+    font-size: 15px;
 }
